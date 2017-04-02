@@ -1,0 +1,6 @@
+c:\users\myvalley\documents\visual studio 2015\Projects\Odev\Odev\bin\Debug\Odev.exe.config
+c:\users\myvalley\documents\visual studio 2015\Projects\Odev\Odev\bin\Debug\Odev.exe
+c:\users\myvalley\documents\visual studio 2015\Projects\Odev\Odev\bin\Debug\Odev.pdb
+c:\users\myvalley\documents\visual studio 2015\Projects\Odev\Odev\obj\Debug\Odev.csprojResolveAssemblyReference.cache
+c:\users\myvalley\documents\visual studio 2015\Projects\Odev\Odev\obj\Debug\Odev.exe
+c:\users\myvalley\documents\visual studio 2015\Projects\Odev\Odev\obj\Debug\Odev.pdb
